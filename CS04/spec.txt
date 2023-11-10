@@ -1,0 +1,9 @@
+# írj egy függvényt, ami visszatér egy 
+# paraméterben megkapott elemszámú,
+# egész számokat tartalmazó listával,
+# ami véletlenszerű elemekkel van feltöltve.
+# A random generálás határértékeit szintén paraméterként add át
+
+# készíts függvényt, ami meghatározza a paraméterben kapott egész számokat tartalmazó lista páros elemeinek számát
+
+# készíts 'eljárást', ami kiírja egy lista elemeit olyan módon, hogy mindenképpen 2 számjegy hosszúságon jelenik meg minden szám (az egy számjegyűek is), valamint minden 10. elem után van sortörés! (tehát táblázatszerű megjelenítést biztosít egy lista elemeinek)

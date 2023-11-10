@@ -1,0 +1,25 @@
+készíts alporogramokra bontott alkalmazást, ami:
+
+megvalósít egy "lottósorsolást":
+lehet 5ös, 6os vagy 7es (skandináv) lottó
+- 5: 5 számot kell eltalálni a 90ből
+- 6: 6 számot kell eltalálni a 45ből
+- 7: 7 számot kell eltalálni a 35ből
+
+1.) megkérdezzük, hogy milyen lottósorsoláson szeretne résztvenni a felhasználó
+válaszlehetőségek: 5, 6, 7
+[+ ha az input hibás (nem 5, 6 vagy 7), akkor jelezzünk hibát, és ne folytatódjon a program, vagy kérje be újra]
+
+2.) bekérjük a tippjeit, letároljuk egy listába
+[+ feladat, ha valaki keménynek érzi magát, bekérés közben ellenőrizze, hogy:
+- nincs ismétlődés a tippek között
+- ad-e a felhasználó határértéken túli tippet
+(ha valamelyik előfordulna, kezeld a hibát!)]
+
+3.) a program kisorsolja (random) a nyerőszámokat a megfelelő határértékek között, a megfelelő darabszámbak
+-> majd kiírja őket [+ lehetőleg növekvőbe rendezve] 
+
+[+ itt is figyelhetsz rá, hogy minden nyerőszám BIZTOSAN egyedi legyen (pythonban erre van egyébként beépített függvény a random modulban)]
+
+4.) meghatározzuk a találatok számat!
+nem 'kötelező' elküldeni, de HA elküldöd (juhaszz@verebelyszki.hu, mappa bezippelve, iskolai címről), akkor tudsz rá kapni jegyet ;)
